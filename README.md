@@ -2,7 +2,7 @@
 	<img width="256" src="media/logo.svg">
 </div>
 
-# dockerpi
+# Rustypi
 
 This is a fork of lukechilds/dockerpi, experimental to ad rust - credits/status (links) below still refers to that project!
 
